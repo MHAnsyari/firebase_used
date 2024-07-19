@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667632067466",
+    "project_id": "hafiz-login-87b60",
+    "storage_bucket": "hafiz-login-87b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667632067466:android:e9011c555f88ee776a5e73",
+        "android_client_info": {
+          "package_name": "com.example.loginbelajar_hafiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4vOeM8ocS9CDe2oMzzKev8S5ZZw1Wii8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
